@@ -1,1 +1,1 @@
-# pitcher_classification
+# MLB_Reds_Hackathon
